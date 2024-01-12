@@ -1,0 +1,10 @@
+{
+	"name": "Clicker",
+	"version": "1.0.0",
+	"manifest_version": 3,
+	"description": "Base Clicker",
+	"action": {
+		"default_popup": "index.html",
+		"default_icon": "mouse.png"
+	}
+}

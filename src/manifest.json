@@ -6,5 +6,10 @@
 	"action": {
 		"default_popup": "index.html",
 		"default_icon": "mouse.png"
+	},
+	"icons": {
+		"32": "mouse.png",
+		"64": "mouse.png",
+		"128": "mouse.png"
 	}
 }

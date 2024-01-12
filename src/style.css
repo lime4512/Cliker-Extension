@@ -1,0 +1,26 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
+	color: white;
+	background-color: rgb(71, 71, 71);
+}
+
+.main-content {
+	padding: 20px;
+	text-align: center;
+}
+
+.main-btn {
+	padding: 10px 20px;
+	transition: 0.4s;
+	cursor: pointer;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	border-radius: 10px;
+	border: none;
+	background-color: rgb(76, 56, 94);
+}
+
+.main-btn:hover {
+	background-color: rgb(107, 61, 146);
+}
